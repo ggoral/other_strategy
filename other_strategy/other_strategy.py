@@ -1,6 +1,6 @@
 class OtherStrategy():
     def suggest(self):
-        return "Another - suggest"
+        return "Other - suggest"
 
     def train(self):
-        return "Another - train"
+        return "Other - train"
