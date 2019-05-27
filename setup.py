@@ -6,7 +6,7 @@ setup(
     packages=['other_strategy'],
     url='',
     license='GPL',
-    author='jloscalzo',
+    author='ggoral',
     author_email='goral.gonzalo@gmail.com',
     description=''
 )
